@@ -1,0 +1,24 @@
+01) Is JSX mandatory for React?
+
+02)Is ES6 mandatory for React?
+
+03) {TitleComponent} vs {<TitleComponent/>} vs
+{<TitleComponent></TitleComponent>} in JSX
+
+04) How can I write comments in JSX?
+
+05) What is <React.Fragment></React.Fragment> and <></> ?
+
+06) What is Virtual DOM?
+
+07) What is Reconciliation in React?
+
+08) What is React Fiber?
+
+09) Why we need keys in React? When do we need keys in React?
+
+10) Can we use index as keys in React?
+
+11) What is props in React? Ways to
+
+12) What is a Config Driven UI ?

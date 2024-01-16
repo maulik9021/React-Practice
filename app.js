@@ -22,6 +22,7 @@ const Header = () => {
    );
 }
 
+
 const RestaurantCard = (props) => {
    const { resData } = props;
    const { cloudinaryImageId, name, cuisines, avgRating, sla } = resData.info;

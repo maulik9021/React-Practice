@@ -1,0 +1,127 @@
+body {
+   margin: 0;
+   padding: 0;
+}
+
+
+/*------------------ Header Section ------------*/
+
+.header {
+   display: flex;
+   justify-content: space-between;
+   border: 1px solid black;
+}
+
+.logo {
+   width: 118px;
+   padding-left: 25px;
+}
+
+.nav-items>ul {
+   display: flex;
+   font-size: 24px;
+   list-style-type: none;
+   margin-right: 20px;
+}
+
+.nav-items>ul>li {
+   padding: 10px;
+}
+
+
+/* ------------------  Card Section ------------- */
+
+.card-section {
+   padding: 10px 0px 0px 10px;
+}
+
+.search-section {
+   margin: 10px;
+}
+
+.section-card-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.res-card {
+   width: 250px;
+   background-color: #f0f0f0;
+   padding: 20px;
+   margin: 5px;
+}
+
+.res-card:hover {
+   border: 1px solid black;
+   cursor: pointer;
+}
+
+.card-logo {
+   width: 100%;
+   height: 180px;
+}
+
+.shimmer-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.shimmer-card {
+   margin: 20px;
+   width: 200px;
+   height: 400px;
+   background-color: lightgray;
+}
+
+.btn-login {
+   padding: 0 20px;
+   cursor: pointer;
+}
+
+.filter-search {
+   margin-bottom: 10px;
+}
+
+.searchbox {
+   margin-right: 5px;
+   width: 15%;
+   height: 21px;
+   padding: 3px;
+   font-size: 16px;
+}
+
+.btn-search {
+   width: 5%;
+   height: 30px;
+   font-size: 15px;
+}
+
+.img-carousal {
+   margin: 80px 0px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.carousal-images {
+   width: 700px;
+   height: 500px;
+}
+
+.btn-prev,
+.btn-next {
+   margin: 0px 30px;
+   width: 10%;
+   height: 50px;
+}
+
+.dropdown-menu {
+   margin: 80px auto;
+   display: flex;
+   justify-content: center;
+}
+
+.user-card {
+   padding: 10px;
+   border: 1px solid black;
+} 

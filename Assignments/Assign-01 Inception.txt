@@ -8,7 +8,7 @@ Ans: Library provides a specific functionality and Framework provides everything
 
 03) What is CDN? Why do we use it?
 Ans: CDN (Content Delivery Network) is a network of interconnected servers that is used to load up webpages and heavy applications fast.
-When servers go down and there is interruptions in connections than CDN enablesweb applications to provide uninterrupted services to the users.
+When servers go down and there is interruptions in connections than CDN enables web applications to provide uninterrupted services to the users.
 
 
 04) Why is React known as React?

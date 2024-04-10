@@ -3,7 +3,7 @@ Ans: JSX is an extended syntax to Javascript. It is used with React for designin
 
 
 02) What are Superpowers of JSX?
-Ans: Using JSX, you can write markup inside Javascript, providing you with a superpower to write logic and markup of a component inside a single.jsx file. It is easy to maintain and debug.
+Ans: Using JSX, you can write markup inside Javascript, providing you with a superpower to write logic and markup of a component inside a single jsx file. It is easy to maintain and debug.
 
 
 03) Role of type attribute in script tag? What options can i use there?

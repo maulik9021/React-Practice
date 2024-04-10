@@ -49,7 +49,7 @@ Ans:
 
 
 11) Why should I not modify `package-lock.json`?
-Ans: Loack files should not be modified unless you are updating the packages required. It tracks all the entire tree of dependencies and exact version of each dependencies in your project.
+Ans: Lock files should not be modified unless you are updating the packages required. It tracks all the entire tree of dependencies and exact version of each dependencies in your project.
 
 
 12) What is `node_modules` ? Is it a good idea to push that on git?\
